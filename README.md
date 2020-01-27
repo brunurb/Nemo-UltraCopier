@@ -28,9 +28,10 @@ Installation instruction
 
 1- Install ultracopier(http://ultracopier.first-world.info/) on Ubuntu and Mint sudo apt-get install ultracopier
 
-2- Download the nemo action files: https://github.com/lestcape/Nemo-UltraCopier/archive/master.zip
+2- Download the nemo action files: https://github.com/brunurb/Nemo-UltraCopier/archive/master.zip
 
-3- Uncompress the file Nemo-UltraCopier.zip and copy the contents of 3 files to the place /home/USER/.local/share/nemo/actions where USER it's your user account.
+3- Uncompress the file Nemo-UltraCopier.zip and copy the contents of 3 (Nemo-ultracopier.nemo_action, Nemo-ultracopier.py 
+   Nemo-ultracopier-folder.nemo_action) files to the place /home/USER/.local/share/nemo/actions where USER it's your user       account.
 
 4- Give permission for execute the file /home/USER/.local/share/nemo/actions/nemo-ultracopier.py.
 
